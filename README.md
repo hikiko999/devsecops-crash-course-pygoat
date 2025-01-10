@@ -7,6 +7,9 @@ intentionally vuln web Application Security in django.
 our roadmap build intentionally vuln web Application in django. The Vulnerability can based on OWASP top ten
 <br>
 
+# Edited by LCROSENDO
+- 1/10/2024 - Created new branch 'personal'
+
 Table of Contents
 =================
 
